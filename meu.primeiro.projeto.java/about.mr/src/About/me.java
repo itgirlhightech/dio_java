@@ -8,7 +8,7 @@ public class me {
         int idade = Integer.valueOf(args[2]);
         double altura = Double.valueOf(args[3]);
 
-        System.out.println("olá, meu nome é " + nome + " " + sobrenome);
+        System.out.println("olá, meu nome é  " + nome + " " + sobrenome);
         System.out.println("tenho  " + idade + "anos");
         System.out.println("minha altura é  " + altura + "cm ");
 
